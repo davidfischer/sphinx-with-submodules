@@ -1,0 +1,4 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/davidfischer/sphinx-common-submodule.git
+	branch = main
